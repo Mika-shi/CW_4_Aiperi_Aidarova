@@ -1,0 +1,18 @@
+# Build output
+bin/
+obj/
+
+# IDE files
+.idea/
+.vs/
+
+# Rider
+*.sln.DotSettings.user
+
+# Visual Studio user files
+*.user
+*.rsuser
+
+# OS files
+Thumbs.db
+Desktop.ini
